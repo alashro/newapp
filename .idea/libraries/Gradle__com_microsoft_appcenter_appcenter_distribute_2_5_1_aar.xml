@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.appcenter:appcenter-distribute:2.5.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe665f58519eca89c18f9a5b6709ce1f/jetified-appcenter-distribute-2.5.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe665f58519eca89c18f9a5b6709ce1f/jetified-appcenter-distribute-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe665f58519eca89c18f9a5b6709ce1f/jetified-appcenter-distribute-2.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fe665f58519eca89c18f9a5b6709ce1f/jetified-appcenter-distribute-2.5.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/appcenter-distribute/2.5.1/8589865b18a325afd4153eec31a639ca4e16b9ea/appcenter-distribute-2.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.appcenter/appcenter-distribute/2.5.1/3a8bf0d8598af0b1917bc8b6ede44e577c3b6987/appcenter-distribute-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
